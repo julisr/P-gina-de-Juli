@@ -1,0 +1,62 @@
+*
+{
+Margin: 0;
+
+Padding 0;
+}
+
+/* Página inicial*/
+
+
+
+.gradient {
+    background-image: radial-gradient(circle, #fcccba, #ffc6bb, #ffc0bf, #ffbac6, #ffb6ce, #fab2d5, #f2b0dd, #e8aee5, #d9aced, #c6acf3, #b0acf9, #95adfd);
+            height: 100%;
+            border-radius:100px ;
+            display:flex;
+    justify-content: center;
+    align-items: center;
+    color:white ;
+    
+}
+
+.texto-inicio {
+    
+    font-family: "Roboto Mono", serif;
+    font-size: 100px;
+}
+
+
+
+.contenedor-borde {
+    display: inline-block;
+    background-color: transparent;
+    padding-right: 30px;
+    border-radius:100px  ;
+    border: 2px solid white;
+    height: 50px;
+
+   
+
+}
+
+.prueba {
+    font-family: "Roboto Mono", serif;
+    font-size: 25px;
+    margin: 0 auto;
+    padding: 15px;
+    list-style-type: none;
+    
+   
+}
+
+
+.sin-sub {
+
+    text-decoration: none;
+    color: white; 
+    
+
+}
+
+

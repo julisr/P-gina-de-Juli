@@ -1,0 +1,26 @@
+/* INDEX*/
+
+.Arriba {
+    background-color: #b0acf9;
+    height: 20%;
+}
+
+.Medio {
+    background-color: #e8aee5;
+    height: 70%;
+
+}
+
+.izq {
+    background-color: #ffc6bb;
+}
+
+.der {
+    background-color: #ffb6ce;
+}
+
+.Abajo {
+background-color: #fcccba;
+height: 10%;
+
+}
